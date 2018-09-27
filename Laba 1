@@ -1,0 +1,20 @@
+#include "stdafx.h"
+#include <iostream>
+
+
+int main()
+{
+    std::cout <<"1"<<" "<<"13"<<" "<<"49";
+	system("pause");
+		char g;
+		std::cin >> g;
+		std::cout <<"1"<<g<<"13"<<g<<"49";
+		system("pause");
+			int x,y,z;
+			std::cin >> x >> y >> z;
+			std::cout <<x<<" "<<y<<" "<<z;
+			system("pause");
+				
+return 0;
+
+}
